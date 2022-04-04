@@ -1,0 +1,1 @@
+Scripts about bash redirections
